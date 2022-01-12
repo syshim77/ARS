@@ -19,7 +19,6 @@ Offline: study room
 
 ### Schedule
 
-| Date       | Title       | Speaker | Notes |
-| ---------- | ----------- | ------- | ----- |
-| 2022.01.10 | Orientation | -       | pdf   |
-
+|    Date    |    Title    | Speaker |                            Notes                             |
+| :--------: | :---------: | :-----: | :----------------------------------------------------------: |
+| 2022.01.10 | Orientation |    -    | [pdf](https://github.com/syshim77/ARS/tree/master/Boostcourse/0_Orientation) |
