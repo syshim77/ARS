@@ -22,3 +22,4 @@ Offline: study room
 |    Date    |    Title    | Speaker |                            Notes                             |
 | :--------: | :---------: | :-----: | :----------------------------------------------------------: |
 | 2022.01.10 | Orientation |    -    | [pdf](https://github.com/syshim77/ARS/tree/master/Boostcourse/0_Orientation) |
+| 2022.01.17 | Linear System and Linear Transformation |    Soomin, Jaehyung, Sooyeon    | [pdf](https://github.com/syshim77/ARS/tree/master/Boostcourse/1_Linear) |
