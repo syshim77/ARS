@@ -24,4 +24,5 @@ Offline: study room
 | 2022.01.10 | Orientation |    -    | [pdf](https://github.com/syshim77/ARS/tree/master/Boostcourse/0_Orientation) |
 | 2022.01.17 | Linear System and Linear Transformation |    Soomin, Jaehyung, Sooyeon    | [pdf](https://github.com/syshim77/ARS/tree/master/Boostcourse/1_Linear) |
 | 2022.01.24 | Least Square |    Sooyeon, Jaehyung, Soomin    | [pdf](https://github.com/syshim77/ARS/tree/master/Boostcourse/2_LeastSquare) |
-| 2022.01.31 | **Happy** |    **New**    | **Year** |
+~~| 2022.01.31 | **Happy** |    **New**    | **Year** |~~
+| 2022.02.07 | Eigen Decomposition |    Soomin, Jaehyung, Sooyeon    | [pdf](https://github.com/syshim77/ARS/tree/master/Boostcourse/3_EigenDecomposition) |
