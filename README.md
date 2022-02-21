@@ -15,7 +15,7 @@ Offline: study room
 ### Course
 
 1. Boostcourse - Linear Algebra for Artificial Intelligence [[link](https://www.boostcourse.org/ai251/joinLectures/195088)]
-2. CS231n - Convolutional Neural Networks for Visual Recognition [[link](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]
+2. CS231n - Convolutional Neural Networks for Visual Recognition [[link](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)] [[note](http://cs231n.stanford.edu/2017/syllabus.html)]
 
 ### Schedule
 
