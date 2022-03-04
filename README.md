@@ -29,3 +29,10 @@ Offline: study room
 | ~~2022.01.31~~ | **Happy** |    **New**    | **Year** |
 | 2022.02.07 | Eigen Decomposition |    Soomin, Jaehyung, Sooyeon    | [pdf](https://github.com/syshim77/ARS/tree/master/Boostcourse/3_EigenDecomposition) |
 | 2022.02.14 | Singular Value Decomposition |    Jaehyung, Soomin, Sooyeon    | [pdf](https://github.com/syshim77/ARS/tree/master/Boostcourse/4_SVD) |
+
+
+##### CS231n
+
+|    Date    |    Title    | Speaker |                            Notes                             |
+| :--------: | :---------: | :-----: | :----------------------------------------------------------: |
+| 2022.02.28 | Lecture 1, 2 |    Jaehyung    | [pdf-1](https://github.com/syshim77/ARS/tree/master/CS231n/Lecture1) [pdf-2](https://github.com/syshim77/ARS/tree/master/CS231n/Lecture2)|
