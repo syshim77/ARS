@@ -37,3 +37,4 @@ Offline: study room
 | :--------: | :---------: | :-----: | :----------------------------------------------------------: |
 | 2022.02.28 | Lecture 1, 2 |    Sooyeon, Soomin    | [lec1](https://github.com/syshim77/ARS/tree/master/CS231n/Lecture1), [lec2](https://github.com/syshim77/ARS/tree/master/CS231n/Lecture2)|
 | 2022.03.07 | Lecture 3, 4, 5 |    Jaehyung, Sooyeon, Soomin    | [lec3](https://github.com/syshim77/ARS/tree/master/CS231n/Lecture3), [lec4](https://github.com/syshim77/ARS/tree/master/CS231n/Lecture4), [lec5](https://github.com/syshim77/ARS/tree/master/CS231n/Lecture5)|
+| 2022.03.21 | Lecture 6, 7, 8 |    Jaehyung, Sooyeon, Soomin    | [lec6](https://github.com/syshim77/ARS/tree/master/CS231n/Lecture6), [lec7](https://github.com/syshim77/ARS/tree/master/CS231n/Lecture7), [lec8](https://github.com/syshim77/ARS/tree/master/CS231n/Lecture8)|
